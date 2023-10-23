@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Shapes &#8211; Worthy of Note</title>
+	<atom:link href="http://worthyofnote.co.uk/tag/shapes/feed/" rel="self" type="application/rss+xml" />
+	<link>http://worthyofnote.co.uk</link>
+	<description>Web Design Resources</description>
+	<lastBuildDate>Sat, 03 Jun 2017 00:08:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>Kovalc</title>
+		<link>http://worthyofnote.co.uk/inspiration/kovalc/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/kovalc/#respond</comments>
+		<pubDate>Tue, 20 Jan 2015 12:32:20 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Bright]]></category>
+		<category><![CDATA[Colours]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<category><![CDATA[Shapes]]></category>
+		<category><![CDATA[SVG]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=4522</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/kovalc/">Kovalc</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/kovalc/">Kovalc</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/kovalc/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

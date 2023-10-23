@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>content &#8211; Worthy of Note</title>
+	<atom:link href="http://worthyofnote.co.uk/category/content/feed/" rel="self" type="application/rss+xml" />
+	<link>http://worthyofnote.co.uk</link>
+	<description>Web Design Resources</description>
+	<lastBuildDate>Sat, 03 Jun 2017 00:08:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>The End</title>
+		<link>http://worthyofnote.co.uk/cms/the-end/</link>
+		<comments>http://worthyofnote.co.uk/cms/the-end/#respond</comments>
+		<pubDate>Sat, 03 Jun 2017 00:02:48 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[CMS]]></category>
+		<category><![CDATA[content]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[html & css]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[tutorials]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6444</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/cms/the-end/">The End</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/cms/the-end/">The End</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/cms/the-end/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Houzz</title>
+		<link>http://worthyofnote.co.uk/content/houzz/</link>
+		<comments>http://worthyofnote.co.uk/content/houzz/#respond</comments>
+		<pubDate>Wed, 01 Feb 2017 13:51:44 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[Furnishing]]></category>
+		<category><![CDATA[Furniture]]></category>
+		<category><![CDATA[Housing]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6341</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/content/houzz/">Houzz</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/content/houzz/">Houzz</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/content/houzz/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Caching Explained</title>
+		<link>http://worthyofnote.co.uk/tutorials/caching-explained/</link>
+		<comments>http://worthyofnote.co.uk/tutorials/caching-explained/#respond</comments>
+		<pubDate>Fri, 20 Jan 2017 15:28:04 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[tutorials]]></category>
+		<category><![CDATA[Browser]]></category>
+		<category><![CDATA[Idea]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6316</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tutorials/caching-explained/">Caching Explained</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tutorials/caching-explained/">Caching Explained</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/tutorials/caching-explained/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Resilient Web Design</title>
+		<link>http://worthyofnote.co.uk/tutorials/resilient-web-design/</link>
+		<comments>http://worthyofnote.co.uk/tutorials/resilient-web-design/#respond</comments>
+		<pubDate>Thu, 22 Dec 2016 13:28:05 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[tutorials]]></category>
+		<category><![CDATA[Book]]></category>
+		<category><![CDATA[Reading]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6271</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tutorials/resilient-web-design/">Resilient Web Design</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tutorials/resilient-web-design/">Resilient Web Design</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/tutorials/resilient-web-design/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Photoshop Etiquette</title>
+		<link>http://worthyofnote.co.uk/design/photoshop-etiquette/</link>
+		<comments>http://worthyofnote.co.uk/design/photoshop-etiquette/#respond</comments>
+		<pubDate>Thu, 19 Nov 2015 12:04:36 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[illustration]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[Photoshop]]></category>
+		<category><![CDATA[Reading]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=5685</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/design/photoshop-etiquette/">Photoshop Etiquette</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/design/photoshop-etiquette/">Photoshop Etiquette</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/design/photoshop-etiquette/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Learn From Great Design</title>
+		<link>http://worthyofnote.co.uk/tutorials/learn-from-great-design/</link>
+		<comments>http://worthyofnote.co.uk/tutorials/learn-from-great-design/#respond</comments>
+		<pubDate>Tue, 20 Oct 2015 17:01:15 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[tutorials]]></category>
+		<category><![CDATA[Book]]></category>
+		<category><![CDATA[Learning]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=5562</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tutorials/learn-from-great-design/">Learn From Great Design</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tutorials/learn-from-great-design/">Learn From Great Design</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/tutorials/learn-from-great-design/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SVG Tutorial</title>
+		<link>http://worthyofnote.co.uk/tutorials/svg-tutorial/</link>
+		<comments>http://worthyofnote.co.uk/tutorials/svg-tutorial/#respond</comments>
+		<pubDate>Wed, 09 Sep 2015 21:42:26 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[tutorials]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[SVG]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=5391</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tutorials/svg-tutorial/">SVG Tutorial</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tutorials/svg-tutorial/">SVG Tutorial</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/tutorials/svg-tutorial/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Giant Robots</title>
+		<link>http://worthyofnote.co.uk/tutorials/giant-robots/</link>
+		<comments>http://worthyofnote.co.uk/tutorials/giant-robots/#respond</comments>
+		<pubDate>Thu, 25 Jun 2015 10:26:45 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[tutorials]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[Reading]]></category>
+		<category><![CDATA[SVG]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=5141</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tutorials/giant-robots/">Giant Robots</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tutorials/giant-robots/">Giant Robots</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/tutorials/giant-robots/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Learning Gulp</title>
+		<link>http://worthyofnote.co.uk/tutorials/learning-gulp/</link>
+		<comments>http://worthyofnote.co.uk/tutorials/learning-gulp/#respond</comments>
+		<pubDate>Mon, 22 Jun 2015 23:08:48 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[tutorials]]></category>
+		<category><![CDATA[Gulp]]></category>
+		<category><![CDATA[Learning]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=5123</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tutorials/learning-gulp/">Learning Gulp</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tutorials/learning-gulp/">Learning Gulp</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/tutorials/learning-gulp/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Patrick Algrim</title>
+		<link>http://worthyofnote.co.uk/inspiration/patrick-algrim/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/patrick-algrim/#respond</comments>
+		<pubDate>Wed, 10 Jun 2015 12:03:00 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Bright]]></category>
+		<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Font]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<category><![CDATA[Presentation]]></category>
+		<category><![CDATA[Really worthy]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=5064</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/patrick-algrim/">Patrick Algrim</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/patrick-algrim/">Patrick Algrim</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/patrick-algrim/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

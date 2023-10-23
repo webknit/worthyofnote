@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CMS &#8211; Worthy of Note</title>
+	<atom:link href="http://worthyofnote.co.uk/category/cms/feed/" rel="self" type="application/rss+xml" />
+	<link>http://worthyofnote.co.uk</link>
+	<description>Web Design Resources</description>
+	<lastBuildDate>Sat, 03 Jun 2017 00:08:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>The End</title>
+		<link>http://worthyofnote.co.uk/cms/the-end/</link>
+		<comments>http://worthyofnote.co.uk/cms/the-end/#respond</comments>
+		<pubDate>Sat, 03 Jun 2017 00:02:48 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[CMS]]></category>
+		<category><![CDATA[content]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[html & css]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[tutorials]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6444</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/cms/the-end/">The End</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/cms/the-end/">The End</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/cms/the-end/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Craft CMS</title>
+		<link>http://worthyofnote.co.uk/cms/craft-cms/</link>
+		<comments>http://worthyofnote.co.uk/cms/craft-cms/#respond</comments>
+		<pubDate>Thu, 02 Feb 2017 13:04:45 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[CMS]]></category>
+		<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Project]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=3436</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/cms/craft-cms/">Craft CMS</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/cms/craft-cms/">Craft CMS</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/cms/craft-cms/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wagtail</title>
+		<link>http://worthyofnote.co.uk/cms/wagtail/</link>
+		<comments>http://worthyofnote.co.uk/cms/wagtail/#respond</comments>
+		<pubDate>Fri, 29 Jan 2016 10:11:56 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[CMS]]></category>
+		<category><![CDATA[Bright]]></category>
+		<category><![CDATA[Clean]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=5806</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/cms/wagtail/">Wagtail</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/cms/wagtail/">Wagtail</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/cms/wagtail/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Owen Perry</title>
+		<link>http://worthyofnote.co.uk/inspiration/owen-perry/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/owen-perry/#respond</comments>
+		<pubDate>Sun, 04 Jan 2015 21:19:29 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[CMS]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Dark]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<category><![CDATA[Presentation]]></category>
+		<category><![CDATA[Really worthy]]></category>
+		<category><![CDATA[Themes]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=4456</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/owen-perry/">Owen Perry</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/owen-perry/">Owen Perry</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/owen-perry/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Coverslider</title>
+		<link>http://worthyofnote.co.uk/tools-freebies/coverslider/</link>
+		<comments>http://worthyofnote.co.uk/tools-freebies/coverslider/#respond</comments>
+		<pubDate>Thu, 11 Dec 2014 12:24:16 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[CMS]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[Plugin]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<category><![CDATA[Really worthy]]></category>
+		<category><![CDATA[Slider]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=4384</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tools-freebies/coverslider/">Coverslider</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tools-freebies/coverslider/">Coverslider</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/tools-freebies/coverslider/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Oozled</title>
+		<link>http://worthyofnote.co.uk/inspiration/oozled/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/oozled/#respond</comments>
+		<pubDate>Fri, 23 May 2014 12:26:10 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[CMS]]></category>
+		<category><![CDATA[content]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[html & css]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[tutorials]]></category>
+		<category><![CDATA[Really worthy]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=3564</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/oozled/">Oozled</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/oozled/">Oozled</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/oozled/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Themes Kingdom</title>
+		<link>http://worthyofnote.co.uk/tools-freebies/themes-kingdom/</link>
+		<comments>http://worthyofnote.co.uk/tools-freebies/themes-kingdom/#respond</comments>
+		<pubDate>Thu, 16 Jan 2014 12:26:07 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[CMS]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[Most worthy]]></category>
+		<category><![CDATA[service]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=751</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tools-freebies/themes-kingdom/">Themes Kingdom</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tools-freebies/themes-kingdom/">Themes Kingdom</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/tools-freebies/themes-kingdom/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Barley</title>
+		<link>http://worthyofnote.co.uk/inspiration/barley/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/barley/#respond</comments>
+		<pubDate>Mon, 06 Jan 2014 13:45:06 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[CMS]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[logo]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=1777</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/barley/">Barley</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/barley/">Barley</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/barley/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Anchor CMS</title>
+		<link>http://worthyofnote.co.uk/tools-freebies/anchor-cms/</link>
+		<comments>http://worthyofnote.co.uk/tools-freebies/anchor-cms/#respond</comments>
+		<pubDate>Sun, 28 Apr 2013 10:52:43 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[CMS]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=1989</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tools-freebies/anchor-cms/">Anchor CMS</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tools-freebies/anchor-cms/">Anchor CMS</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/tools-freebies/anchor-cms/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Statamic</title>
+		<link>http://worthyofnote.co.uk/inspiration/statamic/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/statamic/#respond</comments>
+		<pubDate>Wed, 20 Feb 2013 12:54:34 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[CMS]]></category>
+		<category><![CDATA[html & css]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Javascript]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=1753</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/statamic/">Statamic</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/statamic/">Statamic</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/statamic/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

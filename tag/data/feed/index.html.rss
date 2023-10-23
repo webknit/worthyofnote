@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Data &#8211; Worthy of Note</title>
+	<atom:link href="http://worthyofnote.co.uk/tag/data/feed/" rel="self" type="application/rss+xml" />
+	<link>http://worthyofnote.co.uk</link>
+	<description>Web Design Resources</description>
+	<lastBuildDate>Sat, 03 Jun 2017 00:08:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>Murray Tweet Index</title>
+		<link>http://worthyofnote.co.uk/inspiration/murray-tweet-index/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/murray-tweet-index/#respond</comments>
+		<pubDate>Wed, 21 Dec 2016 11:52:02 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[SVG]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6267</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/murray-tweet-index/">Murray Tweet Index</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/murray-tweet-index/">Murray Tweet Index</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/murray-tweet-index/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>High Charts</title>
+		<link>http://worthyofnote.co.uk/javascript/high-charts/</link>
+		<comments>http://worthyofnote.co.uk/javascript/high-charts/#respond</comments>
+		<pubDate>Fri, 06 May 2016 10:34:29 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[Chart]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Data visualisation]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=5950</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/high-charts/">High Charts</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/high-charts/">High Charts</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/javascript/high-charts/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Chart.js</title>
+		<link>http://worthyofnote.co.uk/javascript/chart-js/</link>
+		<comments>http://worthyofnote.co.uk/javascript/chart-js/#respond</comments>
+		<pubDate>Thu, 10 Dec 2015 12:33:44 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[Chart]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Data visualisation]]></category>
+		<category><![CDATA[Open source]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=5732</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/chart-js/">Chart.js</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/chart-js/">Chart.js</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/javascript/chart-js/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Histography</title>
+		<link>http://worthyofnote.co.uk/inspiration/histography/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/histography/#respond</comments>
+		<pubDate>Tue, 20 Oct 2015 23:54:03 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Canvas]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Data visualisation]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[Most worthy]]></category>
+		<category><![CDATA[SVG]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=5568</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/histography/">Histography</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/histography/">Histography</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/histography/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Story of Water</title>
+		<link>http://worthyofnote.co.uk/inspiration/story-of-water/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/story-of-water/#respond</comments>
+		<pubDate>Tue, 14 Apr 2015 17:50:08 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[fun]]></category>
+		<category><![CDATA[Idea]]></category>
+		<category><![CDATA[infographic]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[Really worthy]]></category>
+		<category><![CDATA[SVG]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=4824</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/story-of-water/">Story of Water</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/story-of-water/">Story of Water</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/story-of-water/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Catswing</title>
+		<link>http://worthyofnote.co.uk/inspiration/catswing/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/catswing/#respond</comments>
+		<pubDate>Thu, 02 Apr 2015 14:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Bright]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Idea]]></category>
+		<category><![CDATA[illustration]]></category>
+		<category><![CDATA[SVG]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=4786</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/catswing/">Catswing</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/catswing/">Catswing</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/catswing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GoSqaured</title>
+		<link>http://worthyofnote.co.uk/javascript/gosqaured/</link>
+		<comments>http://worthyofnote.co.uk/javascript/gosqaured/#respond</comments>
+		<pubDate>Wed, 25 Jun 2014 11:05:58 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Interface]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=3720</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/gosqaured/">GoSqaured</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/gosqaured/">GoSqaured</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/javascript/gosqaured/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Designed To Move</title>
+		<link>http://worthyofnote.co.uk/inspiration/designed-to-move/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/designed-to-move/#respond</comments>
+		<pubDate>Thu, 07 Feb 2013 12:58:15 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Data]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=1693</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/designed-to-move/">Designed To Move</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/designed-to-move/">Designed To Move</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/designed-to-move/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

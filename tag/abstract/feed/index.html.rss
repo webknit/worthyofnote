@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Abstract &#8211; Worthy of Note</title>
+	<atom:link href="http://worthyofnote.co.uk/tag/abstract/feed/" rel="self" type="application/rss+xml" />
+	<link>http://worthyofnote.co.uk</link>
+	<description>Web Design Resources</description>
+	<lastBuildDate>Sat, 03 Jun 2017 00:08:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>Spent</title>
+		<link>http://worthyofnote.co.uk/design/spent/</link>
+		<comments>http://worthyofnote.co.uk/design/spent/#respond</comments>
+		<pubDate>Wed, 02 Nov 2016 11:58:03 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[Abstract]]></category>
+		<category><![CDATA[Art]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6180</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/design/spent/">Spent</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/design/spent/">Spent</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/design/spent/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Leg Work Studio</title>
+		<link>http://worthyofnote.co.uk/inspiration/leg-work-studio/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/leg-work-studio/#respond</comments>
+		<pubDate>Tue, 01 Dec 2015 12:55:12 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Abstract]]></category>
+		<category><![CDATA[Agency]]></category>
+		<category><![CDATA[fun]]></category>
+		<category><![CDATA[Interactive]]></category>
+		<category><![CDATA[Quirky]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=5713</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/leg-work-studio/">Leg Work Studio</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/leg-work-studio/">Leg Work Studio</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/leg-work-studio/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>I am In</title>
+		<link>http://worthyofnote.co.uk/inspiration/i-am-in/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/i-am-in/#respond</comments>
+		<pubDate>Wed, 03 Dec 2014 11:48:05 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Abstract]]></category>
+		<category><![CDATA[Art]]></category>
+		<category><![CDATA[Bright]]></category>
+		<category><![CDATA[Conference]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=4354</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/i-am-in/">I am In</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/i-am-in/">I am In</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/i-am-in/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Young Jerks</title>
+		<link>http://worthyofnote.co.uk/design/young-jerks/</link>
+		<comments>http://worthyofnote.co.uk/design/young-jerks/#respond</comments>
+		<pubDate>Fri, 14 Nov 2014 00:32:17 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[Abstract]]></category>
+		<category><![CDATA[Font]]></category>
+		<category><![CDATA[illustration]]></category>
+		<category><![CDATA[portfolio]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=4271</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/design/young-jerks/">Young Jerks</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/design/young-jerks/">Young Jerks</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/design/young-jerks/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

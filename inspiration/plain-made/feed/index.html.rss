@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Plain Made</title>
+	<atom:link href="http://worthyofnote.co.uk/inspiration/plain-made/feed/" rel="self" type="application/rss+xml" />
+	<link>http://worthyofnote.co.uk/inspiration/plain-made/</link>
+	<description>Web Design Resources</description>
+	<lastBuildDate>Tue, 19 Feb 2013 21:02:21 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>By: areyouworthy</title>
+		<link>http://worthyofnote.co.uk/inspiration/plain-made/#comment-199</link>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+		<pubDate>Tue, 19 Feb 2013 21:02:21 +0000</pubDate>
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=1734#comment-199</guid>
+		<description><![CDATA[No problem Colin. It&#039;s a great site!]]></description>
+		<content:encoded><![CDATA[<p>No problem Colin. It&#8217;s a great site!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Colin Devroe</title>
+		<link>http://worthyofnote.co.uk/inspiration/plain-made/#comment-198</link>
+		<dc:creator><![CDATA[Colin Devroe]]></dc:creator>
+		<pubDate>Tue, 19 Feb 2013 20:59:10 +0000</pubDate>
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=1734#comment-198</guid>
+		<description><![CDATA[Thank you for featuring us on your site. We&#039;re glad our work has inspired so many. It helps us to keep pushing forward.]]></description>
+		<content:encoded><![CDATA[<p>Thank you for featuring us on your site. We&#8217;re glad our work has inspired so many. It helps us to keep pushing forward.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

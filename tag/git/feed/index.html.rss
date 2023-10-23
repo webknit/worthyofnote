@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Git &#8211; Worthy of Note</title>
+	<atom:link href="http://worthyofnote.co.uk/tag/git/feed/" rel="self" type="application/rss+xml" />
+	<link>http://worthyofnote.co.uk</link>
+	<description>Web Design Resources</description>
+	<lastBuildDate>Sat, 03 Jun 2017 00:08:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>24 Pull Requests</title>
+		<link>http://worthyofnote.co.uk/inspiration/24-pull-requests/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/24-pull-requests/#respond</comments>
+		<pubDate>Mon, 08 Dec 2014 14:38:47 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[html & css]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[fun]]></category>
+		<category><![CDATA[Git]]></category>
+		<category><![CDATA[Idea]]></category>
+		<category><![CDATA[Learning]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=4368</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/24-pull-requests/">24 Pull Requests</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/24-pull-requests/">24 Pull Requests</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/24-pull-requests/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bower</title>
+		<link>http://worthyofnote.co.uk/tools-freebies/bower/</link>
+		<comments>http://worthyofnote.co.uk/tools-freebies/bower/#respond</comments>
+		<pubDate>Sat, 01 Feb 2014 13:40:51 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[Git]]></category>
+		<category><![CDATA[Terminal]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=3153</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tools-freebies/bower/">Bower</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tools-freebies/bower/">Bower</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/tools-freebies/bower/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

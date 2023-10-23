@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>iOS &#8211; Worthy of Note</title>
+	<atom:link href="http://worthyofnote.co.uk/tag/ios/feed/" rel="self" type="application/rss+xml" />
+	<link>http://worthyofnote.co.uk</link>
+	<description>Web Design Resources</description>
+	<lastBuildDate>Sat, 03 Jun 2017 00:08:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>Clear</title>
+		<link>http://worthyofnote.co.uk/inspiration/clear/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/clear/#respond</comments>
+		<pubDate>Tue, 08 Dec 2015 09:47:55 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Product]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=5726</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/clear/">Clear</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/clear/">Clear</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/clear/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mediumrare</title>
+		<link>http://worthyofnote.co.uk/inspiration/mediumrare/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/mediumrare/#respond</comments>
+		<pubDate>Tue, 03 Nov 2015 12:22:59 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[graphic design]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Mobile App]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=5622</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/mediumrare/">Mediumrare</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/mediumrare/">Mediumrare</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/mediumrare/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Napkin</title>
+		<link>http://worthyofnote.co.uk/design/napkin/</link>
+		<comments>http://worthyofnote.co.uk/design/napkin/#respond</comments>
+		<pubDate>Wed, 15 Jul 2015 20:43:50 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Animation]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[UX]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=5216</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/design/napkin/">Napkin</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/design/napkin/">Napkin</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/design/napkin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Github Mac</title>
+		<link>http://worthyofnote.co.uk/inspiration/github-mac/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/github-mac/#respond</comments>
+		<pubDate>Thu, 10 Jul 2014 15:06:58 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Gradient]]></category>
+		<category><![CDATA[Interface]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=3780</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/github-mac/">Github Mac</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/github-mac/">Github Mac</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/github-mac/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Design+Code</title>
+		<link>http://worthyofnote.co.uk/inspiration/designcode/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/designcode/#respond</comments>
+		<pubDate>Mon, 23 Jun 2014 11:35:51 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Learning]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=3705</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/designcode/">Design+Code</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/designcode/">Design+Code</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/designcode/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cole Townsend</title>
+		<link>http://worthyofnote.co.uk/inspiration/cole-townsend/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/cole-townsend/#respond</comments>
+		<pubDate>Fri, 20 Jun 2014 22:35:39 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[Bright]]></category>
+		<category><![CDATA[Clean]]></category>
+		<category><![CDATA[illustration]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Most worthy]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=2191</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/cole-townsend/">Cole Townsend</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/cole-townsend/">Cole Townsend</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/cole-townsend/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Portkit</title>
+		<link>http://worthyofnote.co.uk/javascript/portkit/</link>
+		<comments>http://worthyofnote.co.uk/javascript/portkit/#respond</comments>
+		<pubDate>Tue, 03 Dec 2013 21:36:21 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[UX]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=2878</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/portkit/">Portkit</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/portkit/">Portkit</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/javascript/portkit/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

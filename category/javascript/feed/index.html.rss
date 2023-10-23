@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Javascript &#8211; Worthy of Note</title>
+	<atom:link href="http://worthyofnote.co.uk/category/javascript/feed/" rel="self" type="application/rss+xml" />
+	<link>http://worthyofnote.co.uk</link>
+	<description>Web Design Resources</description>
+	<lastBuildDate>Sat, 03 Jun 2017 00:08:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>The End</title>
+		<link>http://worthyofnote.co.uk/cms/the-end/</link>
+		<comments>http://worthyofnote.co.uk/cms/the-end/#respond</comments>
+		<pubDate>Sat, 03 Jun 2017 00:02:48 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[CMS]]></category>
+		<category><![CDATA[content]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[html & css]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[tutorials]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6444</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/cms/the-end/">The End</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/cms/the-end/">The End</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/cms/the-end/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>You Don&#8217;t Know JS</title>
+		<link>http://worthyofnote.co.uk/javascript/dont-know-js/</link>
+		<comments>http://worthyofnote.co.uk/javascript/dont-know-js/#respond</comments>
+		<pubDate>Fri, 03 Mar 2017 13:57:43 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Book]]></category>
+		<category><![CDATA[Reading]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6413</guid>
+		<description><![CDATA[<p>A series of books diving deep into the core mechanisms of the JavaScript language</p>
+<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/dont-know-js/">You Don&#8217;t Know JS</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>A series of books diving deep into the core mechanisms of the JavaScript language</p>
+<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/dont-know-js/">You Don&#8217;t Know JS</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/javascript/dont-know-js/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>mo · js</title>
+		<link>http://worthyofnote.co.uk/javascript/mo-%c2%b7-js/</link>
+		<comments>http://worthyofnote.co.uk/javascript/mo-%c2%b7-js/#respond</comments>
+		<pubDate>Tue, 28 Feb 2017 09:28:55 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Library]]></category>
+		<category><![CDATA[Plugin]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6403</guid>
+		<description><![CDATA[<p>Motion Graphics For The Web</p>
+<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/mo-%c2%b7-js/">mo · js</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Motion Graphics For The Web</p>
+<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/mo-%c2%b7-js/">mo · js</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/javascript/mo-%c2%b7-js/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nuxt.js</title>
+		<link>http://worthyofnote.co.uk/javascript/nuxt-js/</link>
+		<comments>http://worthyofnote.co.uk/javascript/nuxt-js/#respond</comments>
+		<pubDate>Tue, 31 Jan 2017 12:41:23 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Framework]]></category>
+		<category><![CDATA[Vue]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6338</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/nuxt-js/">Nuxt.js</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/nuxt-js/">Nuxt.js</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/javascript/nuxt-js/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Vue Loader</title>
+		<link>http://worthyofnote.co.uk/javascript/vue-loader/</link>
+		<comments>http://worthyofnote.co.uk/javascript/vue-loader/#respond</comments>
+		<pubDate>Mon, 30 Jan 2017 12:47:18 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Framework]]></category>
+		<category><![CDATA[Vue]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6335</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/vue-loader/">Vue Loader</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/vue-loader/">Vue Loader</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/javascript/vue-loader/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Inferno</title>
+		<link>http://worthyofnote.co.uk/javascript/inferno/</link>
+		<comments>http://worthyofnote.co.uk/javascript/inferno/#respond</comments>
+		<pubDate>Thu, 05 Jan 2017 15:21:10 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Framework]]></category>
+		<category><![CDATA[Library]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6283</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/inferno/">Inferno</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/inferno/">Inferno</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/javascript/inferno/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>React For Beginners</title>
+		<link>http://worthyofnote.co.uk/javascript/react-for-beginners/</link>
+		<comments>http://worthyofnote.co.uk/javascript/react-for-beginners/#respond</comments>
+		<pubDate>Tue, 03 Jan 2017 13:24:16 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Course]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[React]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6277</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/react-for-beginners/">React For Beginners</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/react-for-beginners/">React For Beginners</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/javascript/react-for-beginners/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>JavaScript 30</title>
+		<link>http://worthyofnote.co.uk/javascript/javascript-30/</link>
+		<comments>http://worthyofnote.co.uk/javascript/javascript-30/#respond</comments>
+		<pubDate>Mon, 19 Dec 2016 13:17:07 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[fun]]></category>
+		<category><![CDATA[Idea]]></category>
+		<category><![CDATA[Learning]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6260</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/javascript-30/">JavaScript 30</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/javascript-30/">JavaScript 30</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/javascript/javascript-30/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Standard JS</title>
+		<link>http://worthyofnote.co.uk/javascript/standard-js/</link>
+		<comments>http://worthyofnote.co.uk/javascript/standard-js/#respond</comments>
+		<pubDate>Tue, 08 Nov 2016 15:14:59 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Idea]]></category>
+		<category><![CDATA[Styleguide]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6190</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/standard-js/">Standard JS</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/standard-js/">Standard JS</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/javascript/standard-js/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The state of JavaScript</title>
+		<link>http://worthyofnote.co.uk/javascript/the-state-of-javascript/</link>
+		<comments>http://worthyofnote.co.uk/javascript/the-state-of-javascript/#respond</comments>
+		<pubDate>Fri, 21 Oct 2016 15:13:46 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Idea]]></category>
+		<category><![CDATA[Side Project]]></category>
+		<category><![CDATA[Survey]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6161</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/the-state-of-javascript/">The state of JavaScript</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/the-state-of-javascript/">The state of JavaScript</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/javascript/the-state-of-javascript/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PHP &#8211; Worthy of Note</title>
+	<atom:link href="http://worthyofnote.co.uk/tag/php/feed/" rel="self" type="application/rss+xml" />
+	<link>http://worthyofnote.co.uk</link>
+	<description>Web Design Resources</description>
+	<lastBuildDate>Sat, 03 Jun 2017 00:08:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>Parse</title>
+		<link>http://worthyofnote.co.uk/javascript/parse/</link>
+		<comments>http://worthyofnote.co.uk/javascript/parse/#respond</comments>
+		<pubDate>Thu, 07 Aug 2014 12:47:28 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[Bright]]></category>
+		<category><![CDATA[Gradient]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Presentation]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=3882</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/parse/">Parse</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/parse/">Parse</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/javascript/parse/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Theme Foundry &#8211; Local to live WordPress</title>
+		<link>http://worthyofnote.co.uk/content/theme-foundry-local-to-live-wordpress/</link>
+		<comments>http://worthyofnote.co.uk/content/theme-foundry-local-to-live-wordpress/#respond</comments>
+		<pubDate>Fri, 19 Oct 2012 11:47:01 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[CMS]]></category>
+		<category><![CDATA[content]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Server]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=1215</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/content/theme-foundry-local-to-live-wordpress/">Theme Foundry &#8211; Local to live WordPress</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/content/theme-foundry-local-to-live-wordpress/">Theme Foundry &#8211; Local to live WordPress</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/content/theme-foundry-local-to-live-wordpress/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Elliot Jay Stocks &#8211; Multiple single.php templates</title>
+		<link>http://worthyofnote.co.uk/javascript/elliot-jay-stocks-multiple-single-php-templates/</link>
+		<comments>http://worthyofnote.co.uk/javascript/elliot-jay-stocks-multiple-single-php-templates/#respond</comments>
+		<pubDate>Mon, 10 Sep 2012 11:20:50 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[CMS]]></category>
+		<category><![CDATA[content]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[tutioral]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=1118</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/elliot-jay-stocks-multiple-single-php-templates/">Elliot Jay Stocks &#8211; Multiple single.php templates</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/elliot-jay-stocks-multiple-single-php-templates/">Elliot Jay Stocks &#8211; Multiple single.php templates</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/javascript/elliot-jay-stocks-multiple-single-php-templates/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WPbundle</title>
+		<link>http://worthyofnote.co.uk/design/wpbundle/</link>
+		<comments>http://worthyofnote.co.uk/design/wpbundle/#respond</comments>
+		<pubDate>Thu, 16 Feb 2012 16:09:22 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[CMS]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=268</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/design/wpbundle/">WPbundle</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/design/wpbundle/">WPbundle</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/design/wpbundle/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>developer drive</title>
+		<link>http://worthyofnote.co.uk/html-css/developer-drive/</link>
+		<comments>http://worthyofnote.co.uk/html-css/developer-drive/#respond</comments>
+		<pubDate>Sun, 12 Feb 2012 09:16:09 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[html & css]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[tutorials]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[tutioral]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=100</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/html-css/developer-drive/">developer drive</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/html-css/developer-drive/">developer drive</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/html-css/developer-drive/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>designers talk</title>
+		<link>http://worthyofnote.co.uk/html-css/designers-talk/</link>
+		<comments>http://worthyofnote.co.uk/html-css/designers-talk/#respond</comments>
+		<pubDate>Sun, 12 Feb 2012 02:05:07 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[CMS]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[html & css]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[graphic design]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.shaneprendergast.co.uk/hosting/worthy_of_note/?p=93</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/html-css/designers-talk/">designers talk</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/html-css/designers-talk/">designers talk</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/html-css/designers-talk/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>nettuts</title>
+		<link>http://worthyofnote.co.uk/html-css/nettuts/</link>
+		<comments>http://worthyofnote.co.uk/html-css/nettuts/#respond</comments>
+		<pubDate>Sun, 12 Feb 2012 01:56:24 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[CMS]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[html & css]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[tutorials]]></category>
+		<category><![CDATA[graphic design]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[tutioral]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.shaneprendergast.co.uk/hosting/worthy_of_note/?p=86</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/html-css/nettuts/">nettuts</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/html-css/nettuts/">nettuts</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/html-css/nettuts/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

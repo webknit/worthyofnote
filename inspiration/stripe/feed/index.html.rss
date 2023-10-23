@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Stripe</title>
+	<atom:link href="http://worthyofnote.co.uk/inspiration/stripe/feed/" rel="self" type="application/rss+xml" />
+	<link>http://worthyofnote.co.uk/inspiration/stripe/</link>
+	<description>Web Design Resources</description>
+	<lastBuildDate>Tue, 19 Feb 2013 21:02:21 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>By: areyouworthy</title>
+		<link>http://worthyofnote.co.uk/inspiration/stripe/#comment-189</link>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+		<pubDate>Wed, 02 Jan 2013 14:06:14 +0000</pubDate>
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=1528#comment-189</guid>
+		<description><![CDATA[Hi Alex
+Check the arrow icon out. It links to the site.]]></description>
+		<content:encoded><![CDATA[<p>Hi Alex<br />
+Check the arrow icon out. It links to the site.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Alex T</title>
+		<link>http://worthyofnote.co.uk/inspiration/stripe/#comment-188</link>
+		<dc:creator><![CDATA[Alex T]]></dc:creator>
+		<pubDate>Wed, 02 Jan 2013 14:02:50 +0000</pubDate>
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=1528#comment-188</guid>
+		<description><![CDATA[Looks interesting, would be handy to have included a link to the home page for Stripe :)]]></description>
+		<content:encoded><![CDATA[<p>Looks interesting, would be handy to have included a link to the home page for Stripe 🙂</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

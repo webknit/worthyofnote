@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Worthy of Note</title>
+	<atom:link href="http://worthyofnote.co.uk/feed/" rel="self" type="application/rss+xml" />
+	<link>http://worthyofnote.co.uk</link>
+	<description>Web Design Resources</description>
+	<lastBuildDate>Sat, 03 Jun 2017 00:08:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>The End</title>
+		<link>http://worthyofnote.co.uk/cms/the-end/</link>
+		<comments>http://worthyofnote.co.uk/cms/the-end/#respond</comments>
+		<pubDate>Sat, 03 Jun 2017 00:02:48 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[CMS]]></category>
+		<category><![CDATA[content]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[html & css]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[tutorials]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6444</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/cms/the-end/">The End</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/cms/the-end/">The End</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/cms/the-end/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Niice</title>
+		<link>http://worthyofnote.co.uk/design/niice/</link>
+		<comments>http://worthyofnote.co.uk/design/niice/#respond</comments>
+		<pubDate>Mon, 29 May 2017 11:43:45 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[graphic design]]></category>
+		<category><![CDATA[service]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=2290</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/design/niice/">Niice</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/design/niice/">Niice</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/design/niice/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Simple Icons</title>
+		<link>http://worthyofnote.co.uk/tools-freebies/simple-icons/</link>
+		<comments>http://worthyofnote.co.uk/tools-freebies/simple-icons/#respond</comments>
+		<pubDate>Tue, 11 Apr 2017 16:15:36 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[Icons]]></category>
+		<category><![CDATA[SVG]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6439</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tools-freebies/simple-icons/">Simple Icons</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tools-freebies/simple-icons/">Simple Icons</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/tools-freebies/simple-icons/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Marvel App</title>
+		<link>http://worthyofnote.co.uk/design/marvel-app/</link>
+		<comments>http://worthyofnote.co.uk/design/marvel-app/#respond</comments>
+		<pubDate>Tue, 28 Mar 2017 12:15:58 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[Prototype]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[UX]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6435</guid>
+		<description><![CDATA[<p>Simple design, prototyping and collaboration</p>
+<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/design/marvel-app/">Marvel App</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Simple design, prototyping and collaboration</p>
+<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/design/marvel-app/">Marvel App</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/design/marvel-app/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>imagic</title>
+		<link>http://worthyofnote.co.uk/inspiration/imagic/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/imagic/#respond</comments>
+		<pubDate>Tue, 14 Mar 2017 13:42:52 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Parallax]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6430</guid>
+		<description><![CDATA[<p>Brand strategy, digital, video &#038; print</p>
+<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/imagic/">imagic</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Brand strategy, digital, video &#038; print</p>
+<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/imagic/">imagic</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/imagic/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dunlop Builders</title>
+		<link>http://worthyofnote.co.uk/inspiration/dunlop-builders/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/dunlop-builders/#respond</comments>
+		<pubDate>Mon, 13 Mar 2017 15:19:33 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Builder]]></category>
+		<category><![CDATA[Building]]></category>
+		<category><![CDATA[Oversized]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6427</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/dunlop-builders/">Dunlop Builders</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/dunlop-builders/">Dunlop Builders</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/dunlop-builders/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wealthsimple</title>
+		<link>http://worthyofnote.co.uk/inspiration/wealthsimple/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/wealthsimple/#respond</comments>
+		<pubDate>Thu, 09 Mar 2017 16:26:17 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Money]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6424</guid>
+		<description><![CDATA[<p>The smart and simple way to invest in Future You.</p>
+<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/wealthsimple/">Wealthsimple</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The smart and simple way to invest in Future You.</p>
+<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/wealthsimple/">Wealthsimple</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/wealthsimple/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GT America</title>
+		<link>http://worthyofnote.co.uk/design/gt-america/</link>
+		<comments>http://worthyofnote.co.uk/design/gt-america/#respond</comments>
+		<pubDate>Wed, 08 Mar 2017 10:31:32 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[Art]]></category>
+		<category><![CDATA[Font]]></category>
+		<category><![CDATA[typography]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6420</guid>
+		<description><![CDATA[<p>Building a bridge between the American Gothic and European Grotesque typeface genres.</p>
+<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/design/gt-america/">GT America</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Building a bridge between the American Gothic and European Grotesque typeface genres.</p>
+<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/design/gt-america/">GT America</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/design/gt-america/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>JO &#038; SO</title>
+		<link>http://worthyofnote.co.uk/inspiration/jo-so/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/jo-so/#respond</comments>
+		<pubDate>Mon, 06 Mar 2017 16:03:11 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Holiday]]></category>
+		<category><![CDATA[Oversized]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6416</guid>
+		<description><![CDATA[<p>The cool places to stay in portugal, handpicked by two Portuguese sisters</p>
+<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/jo-so/">JO &#038; SO</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The cool places to stay in portugal, handpicked by two Portuguese sisters</p>
+<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/jo-so/">JO &#038; SO</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/jo-so/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>You Don&#8217;t Know JS</title>
+		<link>http://worthyofnote.co.uk/javascript/dont-know-js/</link>
+		<comments>http://worthyofnote.co.uk/javascript/dont-know-js/#respond</comments>
+		<pubDate>Fri, 03 Mar 2017 13:57:43 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Book]]></category>
+		<category><![CDATA[Reading]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6413</guid>
+		<description><![CDATA[<p>A series of books diving deep into the core mechanisms of the JavaScript language</p>
+<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/dont-know-js/">You Don&#8217;t Know JS</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>A series of books diving deep into the core mechanisms of the JavaScript language</p>
+<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/javascript/dont-know-js/">You Don&#8217;t Know JS</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/javascript/dont-know-js/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

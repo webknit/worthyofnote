@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hover effect &#8211; Worthy of Note</title>
+	<atom:link href="http://worthyofnote.co.uk/tag/hover-effect/feed/" rel="self" type="application/rss+xml" />
+	<link>http://worthyofnote.co.uk</link>
+	<description>Web Design Resources</description>
+	<lastBuildDate>Sat, 03 Jun 2017 00:08:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>Pen &#038; Quill</title>
+		<link>http://worthyofnote.co.uk/inspiration/pen-quill/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/pen-quill/#respond</comments>
+		<pubDate>Wed, 26 Nov 2014 13:03:45 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Food & Drink]]></category>
+		<category><![CDATA[Full screen]]></category>
+		<category><![CDATA[Hover effect]]></category>
+		<category><![CDATA[Parallax]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[Restaurant]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=4323</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/pen-quill/">Pen &#038; Quill</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/pen-quill/">Pen &#038; Quill</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/pen-quill/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hix Snedeker</title>
+		<link>http://worthyofnote.co.uk/inspiration/hix-snedeker/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/hix-snedeker/#respond</comments>
+		<pubDate>Thu, 16 Oct 2014 11:11:14 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Hover effect]]></category>
+		<category><![CDATA[Navigation]]></category>
+		<category><![CDATA[Video]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=4164</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/hix-snedeker/">Hix Snedeker</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/hix-snedeker/">Hix Snedeker</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/hix-snedeker/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Finance &#8211; Worthy of Note</title>
+	<atom:link href="http://worthyofnote.co.uk/tag/finance/feed/" rel="self" type="application/rss+xml" />
+	<link>http://worthyofnote.co.uk</link>
+	<description>Web Design Resources</description>
+	<lastBuildDate>Sat, 03 Jun 2017 00:08:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>Wealthsimple</title>
+		<link>http://worthyofnote.co.uk/inspiration/wealthsimple/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/wealthsimple/#respond</comments>
+		<pubDate>Thu, 09 Mar 2017 16:26:17 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Money]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6424</guid>
+		<description><![CDATA[<p>The smart and simple way to invest in Future You.</p>
+<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/wealthsimple/">Wealthsimple</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The smart and simple way to invest in Future You.</p>
+<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/wealthsimple/">Wealthsimple</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/wealthsimple/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Access Ventures</title>
+		<link>http://worthyofnote.co.uk/inspiration/access-ventures/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/access-ventures/#respond</comments>
+		<pubDate>Wed, 10 Jun 2015 12:39:32 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Bright]]></category>
+		<category><![CDATA[Clean]]></category>
+		<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Font]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=5067</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/access-ventures/">Access Ventures</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/access-ventures/">Access Ventures</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/access-ventures/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

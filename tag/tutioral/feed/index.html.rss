@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tutioral &#8211; Worthy of Note</title>
+	<atom:link href="http://worthyofnote.co.uk/tag/tutioral/feed/" rel="self" type="application/rss+xml" />
+	<link>http://worthyofnote.co.uk</link>
+	<description>Web Design Resources</description>
+	<lastBuildDate>Sat, 03 Jun 2017 00:08:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>Clocks</title>
+		<link>http://worthyofnote.co.uk/inspiration/clocks/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/clocks/#respond</comments>
+		<pubDate>Tue, 24 Mar 2015 19:25:24 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[html & css]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[tutorials]]></category>
+		<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[tutioral]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=4762</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/clocks/">Clocks</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/clocks/">Clocks</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/clocks/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sass Guidelines</title>
+		<link>http://worthyofnote.co.uk/html-css/sass-guidelines/</link>
+		<comments>http://worthyofnote.co.uk/html-css/sass-guidelines/#respond</comments>
+		<pubDate>Wed, 11 Feb 2015 18:45:02 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[html & css]]></category>
+		<category><![CDATA[tutorials]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[SASS]]></category>
+		<category><![CDATA[service]]></category>
+		<category><![CDATA[tutioral]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=4604</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/html-css/sass-guidelines/">Sass Guidelines</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/html-css/sass-guidelines/">Sass Guidelines</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/html-css/sass-guidelines/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Understanding JS hoisting</title>
+		<link>http://worthyofnote.co.uk/tutorials/understanding-javascript-hoisting/</link>
+		<comments>http://worthyofnote.co.uk/tutorials/understanding-javascript-hoisting/#respond</comments>
+		<pubDate>Tue, 13 Jan 2015 09:53:05 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[tutorials]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[tutioral]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=4499</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tutorials/understanding-javascript-hoisting/">Understanding JS hoisting</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tutorials/understanding-javascript-hoisting/">Understanding JS hoisting</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/tutorials/understanding-javascript-hoisting/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nodeschool</title>
+		<link>http://worthyofnote.co.uk/tutorials/nodeschool/</link>
+		<comments>http://worthyofnote.co.uk/tutorials/nodeschool/#respond</comments>
+		<pubDate>Sun, 14 Dec 2014 13:55:50 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[tutorials]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[NodeJS]]></category>
+		<category><![CDATA[tutioral]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=4394</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tutorials/nodeschool/">Nodeschool</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tutorials/nodeschool/">Nodeschool</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/tutorials/nodeschool/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pau Giner</title>
+		<link>http://worthyofnote.co.uk/html-css/pau-giner/</link>
+		<comments>http://worthyofnote.co.uk/html-css/pau-giner/#respond</comments>
+		<pubDate>Tue, 18 Nov 2014 12:07:13 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[html & css]]></category>
+		<category><![CDATA[graphic design]]></category>
+		<category><![CDATA[SVG]]></category>
+		<category><![CDATA[tutioral]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=4284</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/html-css/pau-giner/">Pau Giner</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/html-css/pau-giner/">Pau Giner</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/html-css/pau-giner/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Creativity for sale</title>
+		<link>http://worthyofnote.co.uk/inspiration/creativity-for-sale/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/creativity-for-sale/#respond</comments>
+		<pubDate>Wed, 12 Nov 2014 11:15:37 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Book]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[Learning]]></category>
+		<category><![CDATA[tutioral]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=4262</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/creativity-for-sale/">Creativity for sale</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/creativity-for-sale/">Creativity for sale</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/creativity-for-sale/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Zero Six Three</title>
+		<link>http://worthyofnote.co.uk/inspiration/zero-six-three/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/zero-six-three/#respond</comments>
+		<pubDate>Thu, 18 Sep 2014 15:16:18 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[fun]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<category><![CDATA[tutioral]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=4058</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/zero-six-three/">Zero Six Three</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/zero-six-three/">Zero Six Three</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/zero-six-three/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Zell Liew</title>
+		<link>http://worthyofnote.co.uk/html-css/zell-liew/</link>
+		<comments>http://worthyofnote.co.uk/html-css/zell-liew/#respond</comments>
+		<pubDate>Thu, 04 Sep 2014 13:03:41 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[html & css]]></category>
+		<category><![CDATA[tutorials]]></category>
+		<category><![CDATA[Responsive]]></category>
+		<category><![CDATA[SASS]]></category>
+		<category><![CDATA[tutioral]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=3989</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/html-css/zell-liew/">Zell Liew</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/html-css/zell-liew/">Zell Liew</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/html-css/zell-liew/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Makers Society</title>
+		<link>http://worthyofnote.co.uk/inspiration/makers-society/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/makers-society/#respond</comments>
+		<pubDate>Tue, 29 Jul 2014 08:54:11 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Idea]]></category>
+		<category><![CDATA[tutioral]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=3860</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/makers-society/">Makers Society</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/makers-society/">Makers Society</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/makers-society/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Great Discontent</title>
+		<link>http://worthyofnote.co.uk/inspiration/the-great-discontent/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/the-great-discontent/#respond</comments>
+		<pubDate>Fri, 04 Jul 2014 11:24:11 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Most worthy]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[tutioral]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=1175</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/the-great-discontent/">The Great Discontent</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/the-great-discontent/">The Great Discontent</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/the-great-discontent/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

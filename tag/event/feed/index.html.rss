@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Event &#8211; Worthy of Note</title>
+	<atom:link href="http://worthyofnote.co.uk/tag/event/feed/" rel="self" type="application/rss+xml" />
+	<link>http://worthyofnote.co.uk</link>
+	<description>Web Design Resources</description>
+	<lastBuildDate>Sat, 03 Jun 2017 00:08:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>Code in the Dark</title>
+		<link>http://worthyofnote.co.uk/inspiration/code-in-the-dark/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/code-in-the-dark/#respond</comments>
+		<pubDate>Wed, 19 Oct 2016 09:18:18 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Event]]></category>
+		<category><![CDATA[fun]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6152</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/code-in-the-dark/">Code in the Dark</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/code-in-the-dark/">Code in the Dark</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/code-in-the-dark/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Design Files Open House</title>
+		<link>http://worthyofnote.co.uk/inspiration/the-design-files-open-house/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/the-design-files-open-house/#respond</comments>
+		<pubDate>Tue, 29 Oct 2013 21:16:16 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Bright]]></category>
+		<category><![CDATA[Colours]]></category>
+		<category><![CDATA[Event]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=2666</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/the-design-files-open-house/">The Design Files Open House</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/the-design-files-open-house/">The Design Files Open House</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/the-design-files-open-house/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Green Man</title>
+		<link>http://worthyofnote.co.uk/inspiration/green-man/</link>
+		<comments>http://worthyofnote.co.uk/inspiration/green-man/#respond</comments>
+		<pubDate>Thu, 09 May 2013 11:17:55 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[design]]></category>
+		<category><![CDATA[inspiration]]></category>
+		<category><![CDATA[Bright]]></category>
+		<category><![CDATA[Event]]></category>
+		<category><![CDATA[illustration]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=2045</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/green-man/">Green Man</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/inspiration/green-man/">Green Man</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/inspiration/green-man/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

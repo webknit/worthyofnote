@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gulp &#8211; Worthy of Note</title>
+	<atom:link href="http://worthyofnote.co.uk/tag/gulp/feed/" rel="self" type="application/rss+xml" />
+	<link>http://worthyofnote.co.uk</link>
+	<description>Web Design Resources</description>
+	<lastBuildDate>Sat, 03 Jun 2017 00:08:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>PostCSS</title>
+		<link>http://worthyofnote.co.uk/html-css/postcss/</link>
+		<comments>http://worthyofnote.co.uk/html-css/postcss/#respond</comments>
+		<pubDate>Fri, 02 Dec 2016 13:38:11 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[html & css]]></category>
+		<category><![CDATA[Tools, Downloads, Freebies]]></category>
+		<category><![CDATA[Gulp]]></category>
+		<category><![CDATA[SASS]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=6236</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/html-css/postcss/">PostCSS</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/html-css/postcss/">PostCSS</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/html-css/postcss/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Learning Gulp</title>
+		<link>http://worthyofnote.co.uk/tutorials/learning-gulp/</link>
+		<comments>http://worthyofnote.co.uk/tutorials/learning-gulp/#respond</comments>
+		<pubDate>Mon, 22 Jun 2015 23:08:48 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[tutorials]]></category>
+		<category><![CDATA[Gulp]]></category>
+		<category><![CDATA[Learning]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=5123</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tutorials/learning-gulp/">Learning Gulp</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/tutorials/learning-gulp/">Learning Gulp</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/tutorials/learning-gulp/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Breaking up with sass</title>
+		<link>http://worthyofnote.co.uk/html-css/breaking-up-with-sass/</link>
+		<comments>http://worthyofnote.co.uk/html-css/breaking-up-with-sass/#respond</comments>
+		<pubDate>Wed, 29 Apr 2015 12:22:32 +0000</pubDate>
+		<dc:creator><![CDATA[areyouworthy]]></dc:creator>
+				<category><![CDATA[content]]></category>
+		<category><![CDATA[html & css]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Grunt]]></category>
+		<category><![CDATA[Gulp]]></category>
+		<category><![CDATA[PostCSS]]></category>
+		<category><![CDATA[SASS]]></category>
+
+		<guid isPermaLink="false">http://worthyofnote.co.uk/?p=4895</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/html-css/breaking-up-with-sass/">Breaking up with sass</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://worthyofnote.co.uk/html-css/breaking-up-with-sass/">Breaking up with sass</a> appeared first on <a rel="nofollow" href="http://worthyofnote.co.uk">Worthy of Note</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://worthyofnote.co.uk/html-css/breaking-up-with-sass/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
